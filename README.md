@@ -1,4 +1,3 @@
-![10749870_Final Poster](https://github.com/vehanmr/TrueIDS-Desktop-Application/assets/76760766/0ef7748a-2627-48bd-abb1-2ae331cfb2f2)
                TrueIDS: Host-Based Intrusion Detection System
 
 
@@ -25,3 +24,5 @@ You can open the main.py file and run it. Then the login window will pop up. Aft
 Copyright >>>>>
 
 This project is copyrighted © 2022-2023 by Vehan Rathnayake (Computer Security Undergraduate at University of Plymouth, UK).
+
+![10749870_Final Poster](https://github.com/vehanmr/TrueIDS-Desktop-Application/assets/76760766/0ef7748a-2627-48bd-abb1-2ae331cfb2f2)
