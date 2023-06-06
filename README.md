@@ -1,3 +1,4 @@
+![10749870_Final Poster](https://github.com/vehanmr/TrueIDS-Desktop-Application/assets/76760766/0ef7748a-2627-48bd-abb1-2ae331cfb2f2)
                TrueIDS: Host-Based Intrusion Detection System
 
 
